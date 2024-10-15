@@ -1,0 +1,18 @@
+html,body{
+    background-color: mediumaquamarine;
+}
+
+table li{
+    text-decoration: none;
+    text-decoration: none;
+    text-emphasis: none;
+    list-style: none;
+}
+.outputContainer{
+    height: 5vw;
+    text-overflow: scroll;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: rgba(0, 128, 128, 0.449);
+}
